@@ -2,6 +2,6 @@
   "version": "1.0.0",
   "notes": "Version initiale - bêta de test",
   "url": "https://github.com/rtech-cyber/RspotServer/releases",
-  "zip_url": "https://github.com/rtech-cyber/RspotServer/releases/download/v1.0.0/RspotMon-release.zip",
-  "sha256": "94bd3ee37b56f12b25e707b9b4d4852fcb5bfd5d3d48f6af434977cfeabe83a9"
+  "zip_url": "https://github.com/rtech-cyber/RspotServer/releases/download/v1.0.0/RspotMon-v1.0.0.zip",
+  "sha256": "d2fed7b99634276794827725216841a2359b3966ca8544766a1530f6bbb1f25a"
 }
